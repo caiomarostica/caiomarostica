@@ -1,9 +1,48 @@
-- 👋 Hi, I’m @caiomarostica
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning about front e back-end development, UX and UI design
-- 📫 How to reach me: marostica.caio@gmail.com
+<div align="center">
+    <h2> Olá! Sou o Caio Marostica! </h2>
+</div><br>
 
-<!---
-caiomarostica/caiomarostica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+    <a href="https://github.com/caiomarostica">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+</div>
+
+##
+<br>
+<div align="center">
+    <a href="https://github.com/caiomarostica">
+        <img height="150em"
+            src="https://github-readme-stats.vercel.app/api?username=beatavernaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="150em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatavernaro&layout=compact&langs_count=7&theme=dracula" />
+    </a>
+</div>
+
+##
+
+<br>
+<div align="center">
+    <a href="mailto:marostica.caio@gmail.com"> <img
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+    <a href="https://www.linkedin.com/in/caio-marostica/" target="_blank"> <img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+</div>
+
+##
+<br>
+
+<h4>
+👩🏼‍🎓  Estudante de desenvolvimento full stack na Tera <br>
+📚  O que estou aprendendo: React <br>
+💭  Me interesso por: Desenvolvimento Full Stack, Ux design, Mercado de pagamentos, diversidade e inclusão <br>
+🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
+🟢  #OpenToWork
+</h4>
+
+<br>
