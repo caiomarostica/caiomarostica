@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caiomarostica
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning about front-end development, UX and UI design
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning about front e back-end development, UX and UI design
 - 📫 How to reach me: marostica.caio@gmail.com
 
 <!---
