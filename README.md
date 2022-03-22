@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caiomarostica
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning about front-end development, UX and UI design
-- 📫 How to reach me: marostica.caiO@gmail.com
+- 📫 How to reach me: marostica.caio@gmail.com
 
 <!---
 caiomarostica/caiomarostica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
