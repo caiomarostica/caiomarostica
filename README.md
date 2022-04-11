@@ -39,7 +39,7 @@
 
 <h4>
 👩🏼‍🎓  Estudante de desenvolvimento full stack na Tera <br>
-📚  O que estou aprendendo: React <br>
+📚  O que estou aprendendo: Python <br>
 💭  Me interesso por: Desenvolvimento Full Stack, Ux design, Mercado de pagamentos, diversidade e inclusão <br>
 🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
 🟢  #OpenToWork
